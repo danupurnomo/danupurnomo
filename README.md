@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danu Purnomo</h1>
-<h3 align="center">A Data Scientist that loves data and cloud</h3>
+<h3 align="center">A Data Scientist who loves data and cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danupurnomo&label=Profile%20views&color=0e75b6&style=flat" alt="danupurnomo" /> </p>
 
